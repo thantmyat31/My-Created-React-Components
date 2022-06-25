@@ -1,5 +1,6 @@
-# My Created React Component
+# My Created Re-usable React Components
 - This is the collection of my created component for React.js.
+- They are re-usable.
 
 # React pagination components
 - Making two pagination components
