@@ -15,3 +15,8 @@
 - Checked and unchecked function for multiple checkboxes along with the tree view when click on parent checkbox.
 - Expanded and unexpanded function when clicked on more(plus) and less(minus) icon.
 - Vist to source codes and sample project. Click [here](https://github.com/thantmyat31/checkbox-tree-component-react)
+
+# Toast Message Component for React.js
+- Show toast message when clicked on button or got some events.
+- There are 3 conditions of messages and they are success, error and warn for now.
+- Vist to source codes and sample project. Click [here](https://github.com/thantmyat31/toast-message-component-react)
